@@ -23,3 +23,12 @@ go.work.sum
 
 # env file
 .env
+
+# clover-db directory
+clover-db/
+
+# JSON and YAML files
+*.json
+
+# macOS Finder directory metadata
+.DS_Store
